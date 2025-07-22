@@ -1,0 +1,71 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>I LOVE YOU, MIKHA</title>
+</head>
+<body>
+    
+    <div class="centered-container">
+        
+    <h1>Sean's Malupitan website For his Beloved Mikha</h1>
+
+    <h2>Introduction to My love for Mikha</h2>
+    <h2>Me kapag hindi kasama si Mikha</h2>
+    <picture>
+
+        <img src="https://media1.tenor.com/m/P9k4-UJF2fMAAAAd/cute-sad.gif" style="width:45%; height:auto;">
+    </picture>
+
+    <h1>Bakit love ko si Mikha</h1>
+    <h3>Love ko si mikha dahil she is the best of best of the best and she is my favorite person and I will always miss her and love her everyday and every moment</h3>
+
+    <h1>Purpose of my Website</h1>
+    <h3>Para ipakita kay MIkha na love na love na love ko siya and miss na miss ko na rin siya</h3>
+
+    <br>
+
+    <h1>Links to HTML Tutorial</h1>
+    <ul>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+        <li><p> I MISS HER</p></li>
+    </ul>
+
+    
+    <h1>Test Runs of Images, Audios, and Videos</h1>
+
+     <h2>US</h2>
+      <h2>US</h2>
+       <h2>US</h2>
+        <h2>US</h2>
+         <h2>US</h2>
+          <h2>US</h2>
+           <h2>US</h2>
+            <h2>US</h2>
+             <h2>US</h2>
+              <h2>US</h2>
+    <img src="https://media1.tenor.com/m/Iwf6ryqH1csAAAAC/kutty-kucchi.gif" style="width:50%; height:auto;">
+        <br>
+    <img src="https://media1.tenor.com/m/dw-oT9kciYIAAAAC/kutty-kucchi.gif" alt="Meme Image" style="width:50%; height:auto;"
+        <br>
+    <img src="https://media1.tenor.com/m/hwGiaH9YK9UAAAAC/kitty-kitten.gif" style="width:50%; height:auto;">
+        <br>
+
+    </div>
+</body>
+</html>
